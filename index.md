@@ -1,4 +1,4 @@
-# Micah Brody 
+
 `micah(at)brodymail.net`
 
 ## About Me
