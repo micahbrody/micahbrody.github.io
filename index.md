@@ -16,7 +16,7 @@ This summer I did an REU at Clemson University where we studied mercurial signat
 
 
 ### Automated Lawn Care Robot
-We all hate weeds on our lawn, don't we? The problem is that lawn care can be strenuous in the hot summer. I was fortunate enough to join a team of electrical engineering students who were tackling this issue for their senior project. We build a robot that would move around a lawn, detect weeds via a webcam video feed, and finally spray weed-killer on them. I helped build and train the CNN which could find weeds in the video.
+We all hate weeds on our lawn, don't we? The problem is that lawn care can be strenuous in the hot summer. I was fortunate enough to join a team of electrical engineering students who were tackling this issue for their senior project. We build a robot that would move around a lawn, detect weeds via a webcam video feed, and finally spray weed-killer on them. I helped build and train the CNN which could find weeds in the video.<!-- Add link -->
 
 ## Other Interests
 
