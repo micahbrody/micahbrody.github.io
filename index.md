@@ -1,5 +1,5 @@
 
-`micah(at)brodymail.net`
+`micah‏‏‎ ‎[at]‏‏‎ ‎brodymail‎‏‏‎ [dot]‏‏‎ ‎net`
 
 ## About Me
 Hello! I am Micah Brody an aspiring cryptographer. Currently, I am a mathematics and computer science double major at Bradley University. My goal is to pursue a Ph.D. in computer science and conduct research in cryptography. Some of the subjects I am most interested in are certified deletion, anonymous credentials, ORAM, and privacy-preserving systems. I am still finding new interests all the time. Feel free to reach out with any questions.
