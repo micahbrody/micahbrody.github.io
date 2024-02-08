@@ -4,8 +4,11 @@ If this looks like too much information for you, just look for this symbol: :hea
 
 (Note: This doesn't mean it's what I use. It means it's the easiest for most people.)
 
-I made this list to answer the questions "what should I use for x" and  "what do you use for y?" Here are all my answers. I use or have used almost everything on this list and vouch for them. However, I am one person. If you are looking for a category I do not have listed, more alternatives for ones I do, and/or a more thorough guide to privacy, I recommend privacyguides.org. 
+I made this list to answer the questions "what should I use for x" and  "what do you use for y?" Here are all my answers. I use or have used almost everything on this list and vouch for them. However, I am one person.
 
+Other great websites to help with this are:
+- <privacyguides.org>
+- <alternativeto.net>
 
 ## Web Browser:
 
