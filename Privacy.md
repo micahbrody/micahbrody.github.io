@@ -7,8 +7,8 @@ If this looks like too much information for you, just look for this symbol: :hea
 I made this list to answer the questions "what should I use for x" and  "what do you use for y?" Here are all my answers. I use or have used almost everything on this list and vouch for them. However, I am one person.
 
 Other great websites to help with this are:
-- <privacyguides.org>
-- <alternativeto.net>
+- <https://privacyguides.org>
+- <https://alternativeto.net>
 
 ## Web Browser:
 
