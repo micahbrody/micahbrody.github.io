@@ -1,7 +1,17 @@
 # Privacy Recommendations
+
+If this looks like too much information for you, just look for this symbol: :heavy_check_mark: 
+
+(Note: This doesn't mean it's what I use. It means it's the easiest for most people.)
+
 I made this list to answer the questions "what should I use for x" and  "what do you use for y?" Here are all my answers. I use or have used almost everything on this list and vouch for them. However, I am one person. If you are looking for a category I do not have listed, more alternatives for ones I do, and/or a more thorough guide to privacy, I recommend privacyguides.org. 
 
+
 ## Web Browser:
+
+### :heavy_check_mark: Waterfox
+- Adds privacy without breaking functionality.
+
 ### Brave Browser
 
 - Can import everything from chrome
@@ -17,57 +27,82 @@ I made this list to answer the questions "what should I use for x" and  "what do
 
 ## Email:
 	
-### Protonmail
+### :heavy_check_mark: Protonmail
 		
-- Has free option
-- Requires Google Play Services
 - Calendar included
+- Works with alternative email clients (thunderbird, outlook, etc.)
+- Requires Google Play Services
+
 
 ### Alternate/Cheap: Tutanota
-- Has free option
+
 - No Google Play Services Required
 - Calendar included
 
 ## Cloud Storage:
+
+### :heavy_check_mark: Filen.io
+- Good free option
+- Cheap paid plans
+
 ### Cryptomator
 - Keep using Google/Dropbox, but encrypt it.
 
-### Filen.io
-- Good free option
-- Cheap paid plans
-- Has a couple kinks
+### Proton Drive
+- Strong company reputation
+- Relatively expensive
+
 
 ## Password Manager:
-### Bitwarden
+
+### :heavy_check_mark: Bitwarden
 - Free version has everything you need
 - Paid version is < $1/month
 
 ## VPN:
-### Mullvad
+
+### :heavy_check_mark: Mullvad
 - No BS
-- Great Speeds
+- No subscription commitment
+- Great speeds
 - 5 Devices
+- No port forwarding
+
+### Torguard
+- Best speeds
+- Cheap (when on sale)
+- 8 Devices
+- Best port forwarding
+- Extra features for advanced users
+
 
 ### ProtonVPN
-- Can get a bundle with protonmail
 - Mediocre Speeds
 - 10 Devices
+- Limited port forwarding
+
+
 
 ## Domain Provider:
-### Namecheap
+
+### :heavy_check_mark: Namecheap
 - Free whois protection
 - Affordable
 
 ## Notable Bundles: 
-### Proton Unlimited:
+
+### :heavy_check_mark: Proton Unlimited:
 - $10/month
-- Email (With Premium Features)
-- VPN (Decent, but I had mediocre speeds)
-- 500 GB Cloud Storage (Slow for big uploads)
+- Email
+- VPN 
+- 500 GB Cloud Storage 
 - Trusted and respected company
+- Note: I find all of Proton's products to be a bit lacking. 
+However, they do a good job for most people, and the bundle is a great offer for people who want a complete and easy setup.
 
 ## PC Operating Systems:
-### Debloat your Windows install
+
+### :heavy_check_mark: Debloat your Windows install
 - https://christitus.com/one-tool-for-everything/
  
 ## Linux Mint
@@ -77,13 +112,14 @@ I made this list to answer the questions "what should I use for x" and  "what do
 - Best for Gaming
 
 ## Phone Operating Systems:
-### Debloat your phone
+### :heavy_check_mark: Debloat your phone
 - Uninstall unused apps
-- Remove unnecessary permissions
+- Remove unnecessary permissions for apps (access to location, contacts, files, etc.) 
 - Remove WiFi access of apps that don't need it using NetGuard (Android)
 
 ### GrapheneOS
 - Only supports Pixel devices 
+- I'm currently working on a guide to help people switch. Stay tuned.
  
 ### CalyxOS
 - Only supports Pixel devices
