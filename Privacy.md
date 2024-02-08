@@ -12,30 +12,42 @@ Other great websites to help with this are:
 
 ## Web Browser:
 
-### :heavy_check_mark: Waterfox
-- Adds privacy without breaking functionality.
+### Waterfox :heavy_check_mark: 
+- Adds privacy without breaking functionality
 
 ### Brave Browser
 
 - Can import everything from chrome
-- Best Defaults
+- Best defaults
 - Take about 2 minutes to remove the bloat after install
-- FOSS
 
 ### LibreWolf
 	
-- Almost Perfect Defaults
+- Almost perfect defaults
 - Change to not delete cookies on exit, allow search suggestions
-		- FOSS
+
+## Search Engines:
+
+### DuckDuckGo :heavy_check_mark:
+- One of the default options on almost every browser
+- Decent results
+
+### Kagi Search
+- Best results
+- No ads
+- Compatible with all browsers via extensions
+- Includes high quality page summary tool and GPT model 
+- Not free
+
+### Startpage :heavy_check_mark:
+- Uses Google's results but adds privacy
 
 ## Email:
 	
-### :heavy_check_mark: Protonmail
-		
+### Protonmail :heavy_check_mark: 
 - Calendar included
 - Works with alternative email clients (thunderbird, outlook, etc.)
 - Requires Google Play Services
-
 
 ### Alternate/Cheap: Tutanota
 
@@ -58,13 +70,13 @@ Other great websites to help with this are:
 
 ## Password Manager:
 
-### :heavy_check_mark: Bitwarden
+### Bitwarden :heavy_check_mark:
 - Free version has everything you need
 - Paid version is < $1/month
 
 ## VPN:
 
-### :heavy_check_mark: Mullvad
+### Mullvad :heavy_check_mark: 
 - No BS
 - No subscription commitment
 - Great speeds
@@ -85,16 +97,29 @@ Other great websites to help with this are:
 - Limited port forwarding
 
 
-
 ## Domain Provider:
 
-### :heavy_check_mark: Namecheap
+### Namecheap :heavy_check_mark: 
 - Free whois protection
 - Affordable
 
+## "Burner" Services (credit cards, emails, phone numbers, etc.):
+
+### Privacy.com :heavy_check_mark:
+- Burner credit cards
+
+### Simplelogin.io :heavy_check_mark: 
+- Email alias
+
+### MySudo (App)
+- Phone numbers
+- Email
+- Credit cards 
+- Not free
+
 ## Notable Bundles: 
 
-### :heavy_check_mark: Proton Unlimited:
+### Proton Unlimited: :heavy_check_mark:
 - $10/month
 - Email
 - VPN 
@@ -105,7 +130,7 @@ However, they do a good job for most people, and the bundle is a great offer for
 
 ## PC Operating Systems:
 
-### :heavy_check_mark: Debloat your Windows install
+### Debloat Windows :heavy_check_mark:
 - https://christitus.com/one-tool-for-everything/
  
 ## Linux Mint
@@ -115,7 +140,7 @@ However, they do a good job for most people, and the bundle is a great offer for
 - Best for Gaming
 
 ## Phone Operating Systems:
-### :heavy_check_mark: Debloat your phone
+### Debloat your phone :heavy_check_mark:
 - Uninstall unused apps
 - Remove unnecessary permissions for apps (access to location, contacts, files, etc.) 
 - Remove WiFi access of apps that don't need it using NetGuard (Android)
