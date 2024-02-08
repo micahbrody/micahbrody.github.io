@@ -56,7 +56,7 @@ Other great websites to help with this are:
 
 ## Cloud Storage:
 
-### :heavy_check_mark: Filen.io
+### Filen.io :heavy_check_mark:
 - Good free option
 - Cheap paid plans
 
