@@ -27,3 +27,6 @@ I work at the Bradley University Rock Wall. If you are in Peoria, you should com
 ### Digital Privacy
 I often encourage the use of privacy-friendly services. Many people ask me "is \_\_\_ a good service" or "what should I instead of \_\_\_?" [Here](Privacy.md) is a page of my most common answers to these questions.
 
+## For those I sent here
+[Magic](https://drive.filen.io/f/c777b87e-17ef-4386-b868-422cb93c6cb6#qOWfh76efQLunXDbkDk0EmxT2CmucyY7)
+[TV](https://drive.filen.io/d/103d3fb9-e027-4411-881c-f59495dbe937#25wqR4wpmUR9LYKbQdhR07MT7WtvNa1B)
