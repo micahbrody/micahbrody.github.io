@@ -10,6 +10,21 @@ Other great websites to help with this are:
 - <https://privacyguides.org>
 - <https://alternativeto.net>
 
+- ## Table of Contents
+
+- [Web Browser](#web-browser)
+- [Search Engines](#search-engines)
+- [Email](#email)
+- [Cloud Storage](#cloud-storage)
+- [Password Manager](#password-manager)
+- [VPN](#vpn)
+- [Domain Provider](#domain-provider)
+- ["Burner" Services](#burner-services-credit-cards-emails-phone-numbers-etc)
+- [Notable Bundles](#notable-bundles)
+- [PC Operating Systems](#pc-operating-systems)
+- [Phone Operating Systems](#phone-operating-systems)
+
+
 ## Web Browser:
 
 ### Waterfox :heavy_check_mark: 
