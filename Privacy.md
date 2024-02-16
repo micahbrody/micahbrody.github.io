@@ -1,6 +1,6 @@
 # Privacy Recommendations
 
-If this looks like too much information for you, just look for this symbol: :heavy_check_mark: 
+If this looks like too much information for you, just look for this symbol: ✅
 
 (Note: This doesn't mean it's what I use. It means it's the easiest for most people.)
 
@@ -27,7 +27,7 @@ Other great websites to help with this are:
 
 ## Web Browser:
 
-### Waterfox :heavy_check_mark: 
+### Waterfox ✅ 
 - Adds privacy without breaking functionality
 
 ### Brave Browser
@@ -43,7 +43,7 @@ Other great websites to help with this are:
 
 ## Search Engines:
 
-### DuckDuckGo :heavy_check_mark:
+### DuckDuckGo ✅
 - One of the default options on almost every browser
 - Decent results
 
@@ -54,12 +54,12 @@ Other great websites to help with this are:
 - Includes high quality page summary tool and GPT model 
 - Not free
 
-### Startpage :heavy_check_mark:
+### Startpage ✅
 - Uses Google's results but adds privacy
 
 ## Email:
 	
-### Protonmail :heavy_check_mark: 
+### Protonmail ✅ 
 - Calendar included
 - Works with alternative email clients (thunderbird, outlook, etc.)
 - Requires Google Play Services
@@ -71,7 +71,7 @@ Other great websites to help with this are:
 
 ## Cloud Storage:
 
-### Filen.io :heavy_check_mark:
+### Filen.io ✅
 - Good free option
 - Cheap paid plans
 
@@ -85,13 +85,13 @@ Other great websites to help with this are:
 
 ## Password Manager:
 
-### Bitwarden :heavy_check_mark:
+### Bitwarden ✅
 - Free version has everything you need
 - Paid version is < $1/month
 
 ## VPN:
 
-### Mullvad :heavy_check_mark: 
+### Mullvad ✅ 
 - No BS
 - No subscription commitment
 - Great speeds
@@ -114,16 +114,16 @@ Other great websites to help with this are:
 
 ## Domain Provider:
 
-### Namecheap :heavy_check_mark: 
+### Namecheap ✅ 
 - Free whois protection
 - Affordable
 
 ## "Burner" Services (credit cards, emails, phone numbers, etc.):
 
-### Privacy.com :heavy_check_mark:
+### Privacy.com ✅
 - Burner credit cards
 
-### Simplelogin.io :heavy_check_mark: 
+### Simplelogin.io ✅ 
 - Email alias
 
 ### MySudo (App)
@@ -134,7 +134,7 @@ Other great websites to help with this are:
 
 ## Notable Bundles: 
 
-### Proton Unlimited: :heavy_check_mark:
+### Proton Unlimited: ✅
 - $10/month
 - Email
 - VPN 
@@ -145,7 +145,7 @@ However, they do a good job for most people, and the bundle is a great offer for
 
 ## PC Operating Systems:
 
-### Debloat Windows :heavy_check_mark:
+### Debloat Windows ✅
 - https://christitus.com/one-tool-for-everything/
  
 ## Linux Mint
@@ -155,7 +155,7 @@ However, they do a good job for most people, and the bundle is a great offer for
 - Best for Gaming
 
 ## Phone Operating Systems:
-### Debloat your phone :heavy_check_mark:
+### Debloat your phone ✅
 - Uninstall unused apps
 - Remove unnecessary permissions for apps (access to location, contacts, files, etc.) 
 - Remove WiFi access of apps that don't need it using NetGuard (Android)
